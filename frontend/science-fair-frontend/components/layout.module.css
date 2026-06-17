@@ -1,0 +1,47 @@
+.container{
+    padding: 0 1rem;
+    margin-bottom: 4em;
+}
+
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.children {
+    display: flex;
+    flex-direction: row;
+}
+
+.introduction {
+    margin-left: auto;
+    margin-right: auto;
+    display: inline;
+    justify-self: center;
+}
+
+.title {
+    color: white;
+    text-align: center;
+    font-size: 4em;
+}
+
+.description {
+    width: 800px;
+    color: white;
+    text-align: center;
+    font-size: 2em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.instructions {
+    color: white;
+    margin-bottom: 2rem;
+}
+
+.uselist {
+    color: white;
+    font-size: 1.2em;
+}

@@ -1,0 +1,17 @@
+.tree {
+    width: 900px;
+    height: 100%;
+    background-color: unset !important;
+}
+
+.tree>svg>.node.male>circle {
+    fill: #039be5;
+}
+
+.tree>svg>.node.female>circle {
+    fill: #FF46A3;
+}
+
+.tree>svg>.node {
+    fill: #000000 !important;
+}
